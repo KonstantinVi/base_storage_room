@@ -1,7 +1,8 @@
 # Сортировка Методом Выбором.
 # Сложность O(n^2).
 
-"""Bubble sorting
+"""
+Select sorting
 
 >>> arr = [1, 2, 3, 4, 5]
 >>> select_sort(arr)
