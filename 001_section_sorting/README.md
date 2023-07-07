@@ -13,3 +13,8 @@ https://youtu.be/92BfuxHn2XE
 
 <img src='src_img/002_select_sort.png' width="450"/>
 
++ 003_insertion_sort.py - Сортировка методом "Вставками"  
+Сложность O(n^2)  
+https://youtu.be/92BfuxHn2XE
+
+<img src='src_img/003_insertion_sort.png' width="450"/>
