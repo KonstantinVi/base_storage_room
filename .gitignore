@@ -8,6 +8,8 @@ bin-release/
 .settings/
 /VENV
 .idea
+__pycache__
+001_section_sorting/__pycache__
 
 # Executables
 *.swf
