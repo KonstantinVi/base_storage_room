@@ -7,6 +7,6 @@
   + [002__select_sort.py - Сортировка методом "Выбора"](https://github.com/KonstantinVi/base_storage_room/blob/master/001_section_sorting/002_select_sort.py)  
   + [003_insertion_sort.py - Сортировка методом "Вставки"](https://github.com/KonstantinVi/base_storage_room/blob/master/001_section_sorting/003_insertion_sort.py)
   + [004_merge_sort.py - Сортировка методом "Слияния" ](https://github.com/KonstantinVi/base_storage_room/blob/master/001_section_sorting/004_merge_sort.py)
-  + [005_quick_sort.py - Сортировка методом "Быстрая сортировка"]()
+  + [005_quick_sort.py - Сортировка методом "Быстрая сортировка"](https://github.com/KonstantinVi/base_storage_room/blob/master/001_section_sorting/005_quick_sort.py)
 + 002_
 + README.md
