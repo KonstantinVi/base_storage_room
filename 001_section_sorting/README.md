@@ -18,3 +18,8 @@ https://youtu.be/92BfuxHn2XE
 https://youtu.be/92BfuxHn2XE
 
 <img src='src_img/003_insertion_sort.png' width="450"/>
+
++ 004_merge_sort.py - Сортировка методом "Слияния"  
+Сложность O(n*log(n))  
+https://youtu.be/ZRPoEKHXTJg
+

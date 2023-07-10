@@ -1,7 +1,8 @@
 # Сортировка Методом Пузырька.
 # Сложность O(n^2).
 
-"""Bubble sorting
+"""
+Bubble sorting
 
 >>> arr = [1, 2, 3, 4, 5]
 >>> bubble_sort(arr)
