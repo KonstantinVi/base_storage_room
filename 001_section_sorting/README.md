@@ -28,4 +28,5 @@ https://youtu.be/ZRPoEKHXTJg
 <br>
 + 005_quick_sort.py - Сортировка методом "Быстрая сортировка"  
 Сложность O(n*log(n))  
-https://youtu.be/8hEyhs3OV1w
+https://youtu.be/8hEyhs3OV1w  
+
