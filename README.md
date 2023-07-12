@@ -14,6 +14,8 @@
   + 003 - Стек.
   + 004 - Очередь.
   + 005 - Список.
-    + [005_01_linked list - Односвязный список]()
-    + [005_02_double_linked_list - Двусвязный список]()
+    + [005_01_linked list - Односвязный список](https://github.com/KonstantinVi/base_storage_room/blob/master/002_section_data_structure/005_01_linked%20list.py)
+    + [005_02_double_linked_list - Двусвязный список](https://github.com/KonstantinVi/base_storage_room/blob/master/002_section_data_structure/005_02_double_linked_list.py)
++ 003_simple_constructions
+  + [001_factorial_of_a_number_and_mathematical_induction]()
 + README.md
