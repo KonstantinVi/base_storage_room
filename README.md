@@ -8,7 +8,8 @@
   + [003_insertion_sort.py - Сортировка методом "Вставки"](https://github.com/KonstantinVi/base_storage_room/blob/master/001_section_sorting/003_insertion_sort.py)
   + [004_merge_sort.py - Сортировка методом "Слияния" ](https://github.com/KonstantinVi/base_storage_room/blob/master/001_section_sorting/004_merge_sort.py)
   + [005_quick_sort.py - Сортировка методом "Быстрая сортировка"](https://github.com/KonstantinVi/base_storage_room/blob/master/001_section_sorting/005_quick_sort.py)
-+ [002_section_data_structure - Структуры данных]()
+  + [006_counting_sort.py - Сортировка методом "Подсчёта"]()
++ [002_section_data_structure - Структуры данных](https://github.com/KonstantinVi/base_storage_room/tree/master/002_section_data_structure)
   + 001 - Массив обычный.
   + 002 - Массив динамический.
   + 003 - Стек.

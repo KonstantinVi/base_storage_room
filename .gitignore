@@ -10,6 +10,8 @@ bin-release/
 .idea
 __pycache__
 001_section_sorting/__pycache__
+tmp_my.*
+timeit_display.*
 
 # Executables
 *.swf

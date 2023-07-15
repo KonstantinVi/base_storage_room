@@ -30,3 +30,8 @@ https://youtu.be/ZRPoEKHXTJg
 + 005_quick_sort.py - Сортировка методом "Быстрая сортировка"  
 Сложность O(n*log(n))  
 https://youtu.be/8hEyhs3OV1w  
+<br>
+
++ 006_counting_sort.py - Сортировка методом "Подсчёта"  
+Сложность O(n)  
+<br>
